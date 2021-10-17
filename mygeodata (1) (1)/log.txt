@@ -1,0 +1,16 @@
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 1: Value '•Based in Cairo.<br>•Facilities for conducting infections disease research and prevention.<br>•Syndrome, pathogen, and vector surveillance networks in Egypt and the region.<br>•Largest DoD overseas laboratory with bio-safety level 3 bio-containment space.' of field descriptio has been truncated to 254 characters.  This warning will not be emitted any more for that layer.
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 1: Value '• An Army operated facility that can store<br>joint equipment.<br>• Serves as a prepositioning point for one<br>brigade’s worth of armored equipment.<br>• Features a large number of climate<br>controlled warehouse units.<br>• Also featured a Stryker Damage Repair<br>facility which repaired hundreds of Stryker<br>vehicles damaged in combat in Iraq and<br>Afghanistan until the repair facility’s<br>closure in 2014.' of field descriptio has been truncated to 254 characters.  This warning will not be emitted any more for that layer.
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 1: Value '•Two 9,805 ft runways.<br>•386th Air Expeditionary Wing is a primary occupant, operating C-17 and C-130 cargo aircraft.<br>•Base operates as a way station for troops.<br>•82nd Airborne's Immediate Response Force currently en-route, totaling about 3,500 troops. ' of field descriptio has been truncated to 254 characters.  This warning will not be emitted any more for that layer.
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 1: Value '• Features fully furnished villas for U.S.<br>Personnel.<br>• Serves as a housing facility for U.S. military<br>personnel, primarily those assigned to the<br>U.S. Military Training Mission.<br>• Also hosts Army personnel of the Saudi<br>Arabian National Guard Modernization<br>Program and Ministry of the Interior-<br>Military Assistance Group.<br>• Base not intended for combat operations.<br>Base security provided by 341st Military<br>Police Company.' of field descriptio has been truncated to 254 characters.  This warning will not be emitted any more for that layer.
